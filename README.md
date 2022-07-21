@@ -2,5 +2,5 @@
 Primeiro repositorio desafio de projeto sobre GIT / Github da Dio
 
 ## Links úteis 
-[Venha Conhecer a DIO] (https://www.dio.me)
+[Venha Conhecer a DIO](https://www.dio.me)
 
