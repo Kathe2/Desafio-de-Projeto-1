@@ -1,0 +1,9 @@
+# anotação sobre GIT/Github
+git status = Informação de como o arquivo se encontra.
+mkdir = criar pasta
+ls = listar
+ctrl + L = limpar
+git add = adicionar 
+git add . = adicionar todos os arquivos da pasta
+git commit -m "..." +tirar um "prit" do estado atual
+git clone = copiar um codigo do github
